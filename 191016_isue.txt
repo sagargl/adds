@@ -1,0 +1,10 @@
+Steps: 
+1.Login to plive with ep.producer2@gmail.com
+2.Tap on the show saathiya, Episode 1210, Scene4, Para1
+3. Swipe on the screenplay page
+3. Add words 
+4.Add contacts(ep5plive@gmail.com, writerplivevkr2@gmail.com) 
+4. Tap on send button
+5. Type words from added users
+
+Issue: Once the added user is typing, Initi
