@@ -1,0 +1,7 @@
+Its working fine in the PLIVE IOS app ver 1.0 beta 18 build. 
+Verified under Mere Agne Meih S2, SP0 under Starplus
+
+Issue in ios:
+1. comment in screenplay- last word is deleting
+2. if ep1 had forwarded comment to writer, den ep1's thumbnails is getting to writer
+3. adding new user to the comment it is not showing
